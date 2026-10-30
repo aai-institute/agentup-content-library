@@ -1,0 +1,7 @@
+# The id and number of each mission. Numbers order the missions across all topics.
+# Learners' completions refer to the id, so it never changes.
+
+- id: mission-1-see-which-skills-your-ai-already-has
+  number: 1
+- id: mission-2-install-the-humanizer-and-see-when-it-loads
+  number: 2

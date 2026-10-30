@@ -1,0 +1,12 @@
+{
+  "note": "Generated from orientation-framework by content-library/scripts/sync_to_content_library.py. Don't edit the files listed here: the next sync overwrites them.",
+  "source_commit": "aabe82a",
+  "files": {
+    "missions/authoring-reusable-skills/_topic.yaml": "content-library/content/integrating-agents/authoring-reusable-skills/topic.yaml",
+    "missions/authoring-reusable-skills/mission-1-see-which-skills-your-ai-already-has.md": "content-library/missions/authoring-reusable-skills/mission-1-see-which-skills-your-ai-already-has.md",
+    "missions/authoring-reusable-skills/mission-2-install-the-humanizer-and-see-when-it-loads.md": "content-library/missions/authoring-reusable-skills/mission-2-install-the-humanizer-and-see-when-it-loads.md",
+    "missions/missions.yaml": "content-library/missions/missions.yaml",
+    "translations/de/authoring-reusable-skills/mission-1-see-which-skills-your-ai-already-has.md": "content-library/missions/de/authoring-reusable-skills/mission-1-see-which-skills-your-ai-already-has.md",
+    "translations/de/authoring-reusable-skills/mission-2-install-the-humanizer-and-see-when-it-loads.md": "content-library/missions/de/authoring-reusable-skills/mission-2-install-the-humanizer-and-see-when-it-loads.md"
+  }
+}
