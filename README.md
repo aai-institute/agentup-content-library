@@ -4,7 +4,7 @@ This repository contains the content of [Agent Up](https://aai-institute.github.
 
 ## Contents
 
-- `missions/`: the missions in English, grouped by topic. `missions/missions.yaml` lists each mission's ID and number.
+- `missions/`: the missions in English, grouped by topic.
 - `translations/de/`: the German translations of the missions, in the same folder structure.
 
 ## License
